@@ -1,0 +1,9 @@
+.both{
+    display: flex;
+    justify-content: space-around;
+
+}
+.imagebar{
+    height: 50px;
+  
+}
